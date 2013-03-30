@@ -1,0 +1,4 @@
+Python
+    http://www.python.org/ Python
+Traging (mentioned in chapter 1)
+    http://inventwithpython.com/traces
