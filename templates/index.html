@@ -1,0 +1,19 @@
+$def with (name)
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello $name</title>
+</head>
+<body class="index">
+<header>
+
+$if name:
+	<h1>
+    I just wanted to say <em>hello</em> to $name.
+	</h1>
+$else:
+    <em>Hello</em>, world!
+
+</header>
+</body>
+</html>
